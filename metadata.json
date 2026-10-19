@@ -1,0 +1,6 @@
+{
+  "name": "Anatome",
+  "description": "A visual workout tracking app that helps you log workouts, track muscle recovery, and identify neglected muscle groups over time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
